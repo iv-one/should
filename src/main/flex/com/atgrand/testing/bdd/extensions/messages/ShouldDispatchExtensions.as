@@ -1,5 +1,5 @@
 /**
- * Author: Ivan Dyachenko <ivan.dyachenko@db.com>
+ * Author: Ivan Dyachenko
  * Date: 28.11.11
  * Time: 12:09
  */
