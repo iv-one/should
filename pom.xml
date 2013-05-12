@@ -53,6 +53,15 @@
                 <version>${version.flexmojos}</version>
                 <extensions>true</extensions>
 
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>compile-swc</goal>
+                            <goal>sources</goal>
+                        </goals>
+                    </execution>
+                </executions>
+
                 <configuration>
                     <coverage>true</coverage>
 
