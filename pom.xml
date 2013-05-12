@@ -137,8 +137,8 @@
     </dependencies>
 
     <scm>
-        <connection>scm:git:git://github.com/ivan-dyachenko/it-should-be.git</connection>
-        <url>http://github.com/ivan-dyachenko/it-should-be</url>
+        <connection>scm:git:git://github.com/ivan-dyachenko/should.git</connection>
+        <url>http://github.com/ivan-dyachenko/should</url>
     </scm>
 
     <repositories>
